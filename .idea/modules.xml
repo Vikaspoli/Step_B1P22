@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/UsernameChecker.iml" filepath="$PROJECT_DIR$/UsernameChecker.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/HelloEarth.iml" filepath="$PROJECT_DIR$/HelloEarth.iml" />
+>>>>>>> d46773275f69a07baf747fcd40af5bc33707de6c
     </modules>
   </component>
 </project>
